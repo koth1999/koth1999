@@ -41,11 +41,13 @@
 <br>
 <div align=center>
 	<p>✨ Contact & Portfolio ✨</p>
-  <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	<a href="mailto:koth1999@naver.com"><img src="https://img.shields.io/badge/Email-d14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
+	<a href https://koth1999.notion.site/069beb564bd045d483d86be51e88d069?pvs=4>
+		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+	</a>
+	<a href="mailto:koth1999@naver.com">
+		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+	</a>
 </div>
-<br>
-<br>
 
 
 <div align=center>
