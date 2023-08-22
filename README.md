@@ -41,8 +41,6 @@
 <br>
 <div align=center>
 	<p>✨ Contact & Portfolio ✨</p>
-
-<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	<a href="mailto:koth1999@naver.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
