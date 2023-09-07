@@ -47,6 +47,12 @@
 <br>
 <br>
 
+ <div align=center>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koth1999&layout=compact"><br><br>
+</div>
+
+<br>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koth1999)](https://solved.ac/profile/koth1999)
 </div>
 
