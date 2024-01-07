@@ -50,12 +50,6 @@
 <br>
 <br>
 
-<div align=center>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koth1999&layout=compact"><br><br>
-</div>
-
-
-
 
 <br>
 
